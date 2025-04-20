@@ -14,3 +14,4 @@ A sleek and responsive **landing page template** inspired by **Amazon Web Servic
 - 🚀 **Call-to-action Buttons** for signup or service usage
 
 ---
+Developed by **Nayak Dhruvi .J.**
