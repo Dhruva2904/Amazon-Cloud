@@ -1,4 +1,4 @@
-# ☁️ Amazon Cloud Template – HTML & CSS
+# 🌩️ Amazon Cloud Template – HTML & CSS
 
 A sleek and responsive **landing page template** inspired by **Amazon Web Services (AWS)**, built entirely with **HTML5** and **CSS3**. Perfect for cloud-based platforms, DevOps portfolios, or AWS-themed UI projects.
 
